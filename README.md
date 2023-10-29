@@ -20,8 +20,8 @@ Hi, I'm [Sixiang Cheng](https://endeavor-blog.cn/), a cs student and a freelance
 
 <div style="display: flex; justify-content: center;">
 <div style="display: flex; flex-direction: row; align-items: center;">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=chengsx21&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengsx21&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="135px" src="https://github-readme-stats.vercel.app/api?username=chengsx21&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengsx21&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div></div>
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=chengsx21" /> </div>
