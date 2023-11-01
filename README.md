@@ -22,5 +22,3 @@ Hi, I'm [Sixiang Cheng](https://endeavor-blog.cn/), a cs student and a freelance
   <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengsx21&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   <div style="flex: 1;"></div> <!-- 右边的空白 -->
 </div>
-
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=chengsx21&theme=dracula" /> </div>
