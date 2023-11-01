@@ -8,9 +8,7 @@ Hi, I'm [Sixiang Cheng](https://endeavor-blog.cn/), a cs student and a freelance
 
 🔧 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -24,7 +22,5 @@ Hi, I'm [Sixiang Cheng](https://endeavor-blog.cn/), a cs student and a freelance
   <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengsx21&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   <div style="flex: 1;"></div> <!-- 右边的空白 -->
 </div>
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=chengsx21" /> </div>
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=chengsx21&theme=dracula" /> </div>
